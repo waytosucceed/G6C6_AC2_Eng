@@ -1,0 +1,208 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Identify the qualitative adjective in the sentence: 'The old man sat on a creaky rocking chair.'",
+        "options": [
+            "Old",
+            "Man",
+            "Sat",
+            "Creaky"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which of the following is a quantitative adjective?",
+        "options": [
+            "Delightful",
+            "Numerous",
+            "Brilliant",
+            "Eager"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "'Several' is an adjective of a number.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "'Gorgeous' is a quantitative adjective.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "The ________ flowers in the garden were blooming beautifully.",
+        "options": [
+            "Colourful",
+            "Decaying",
+            "Withering",
+            "None of the above"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "There were ________ people at the concert last night.",
+        "options": [
+            "Countless",
+            "Distant",
+            "Green",
+            "Silent"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Identify the demonstrative adjective in the sentence: 'Those books on the shelf belong to my sister.'",
+        "options": [
+            "Books",
+            "Shelf",
+            "Belong",
+            "Those"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which of the following is an interrogative adjective?",
+        "options": [
+            "Whose",
+            "Beautiful",
+            "Many",
+            "How"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Identify the possessive adjective in the sentence: 'My friend's new car is very efficient.'",
+        "options": [
+            "New",
+            "Car",
+            "Efficient",
+            "My"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "'That' can be used as a demonstrative adjective.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "'What kind' is an interrogative adjective.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Identify the qualitative adjective in the sentence: 'The delicious cake was baked to perfection.'",
+        "options": [
+            "The",
+            "Cake",
+            "Was",
+            "Delicious"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which of the following is a quantitative adjective?",
+        "options": [
+            "Bright",
+            "Ample",
+            "Intelligent",
+            "Excited"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "'Their' is a possessive adjective.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Identify the adjective of number in the sentence: 'The first three winners of the competition were awarded prizes.'",
+        "options": [
+            "The",
+            "Three",
+            "Winners",
+            "Competition"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "‘This’ is an _______ adjective.",
+        "options": [
+            "Possessive",
+            "Demonstrative",
+            "Qualitative",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "‘Third’ is an ordinal adjective.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Identify the qualitative adjective in the sentence: 'The adventurous hiker explored the rugged terrain.'",
+        "options": [
+            "Explored",
+            "Adventurous",
+            "Rugged",
+            "Both b and c"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "‘Those’ and ‘Their’ are demonstrative adjectives.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "‘Abundant’ is a _________ adjective.",
+        "options": [
+            "Qualitative",
+            "Demonstrative",
+            "Quantitative",
+            "Possessive"
+        ],
+        "correct": 2
+    }
+]
